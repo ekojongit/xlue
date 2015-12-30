@@ -1,10 +1,10 @@
 [
     {
-        "caption": "FileTool: XmlToLua",
+        "caption": "xlue: XmlToLua",
         "command": "xml_to_lua"
     },    
 	 {
-        "caption": "FileTool: GoDefinition",
+        "caption": "xlue: GoDefinition",
         "command": "go_definition"
     },   
 	{
