@@ -1,0 +1,24 @@
+[
+    {
+        "caption": "FileTool: XmlToLua",
+        "command": "xml_to_lua"
+    },    
+	 {
+        "caption": "FileTool: GoDefinition",
+        "command": "go_definition"
+    },   
+	{
+        "caption": "Preferences: xlue – Default (Windows).sublime-keymap",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/xlue/Default (Windows).sublime-keymap"
+        }
+    },
+	{
+        "caption": "Preferences: xlue – Default.sublime-commands",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/xlue/Default.sublime-commands"
+        }
+    }
+]

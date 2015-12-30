@@ -1,0 +1,4 @@
+[
+	{ "keys": ["f9"], "command": "xml_to_lua"},
+	{ "keys": ["alt+g"], "command":"go_definition"}
+]
